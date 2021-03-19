@@ -6,5 +6,3 @@ $(window).on("load", function(){
 
  teste a
  teste b
- teste c
- teste d
